@@ -67,11 +67,13 @@ Host: example.com
 
 ## Whatweb
 ### output
+<img width="622" height="335" alt="image" src="https://github.com/user-attachments/assets/4f5b4880-749c-4b8f-8197-b3bdfd21acf4" />
 
 
 ## httprint
 ### output
 
+<img width="812" height="938" alt="image" src="https://github.com/user-attachments/assets/316aaf75-b86e-47ae-b82d-73435991d48c" />
 
 
 
@@ -79,11 +81,13 @@ Host: example.com
 TCP Traceroute:
 sudo traceroute -T www.google.com
 ## output
+<img width="567" height="78" alt="image" src="https://github.com/user-attachments/assets/b3afa4ad-41f9-4821-9f37-8995129026ff" />
 
 
 ## UDP Traceroute:
 sudo traceroute -U www.google.com
 ## output
+<img width="605" height="542" alt="image" src="https://github.com/user-attachments/assets/6bb8ea4e-6d8f-42f3-a43c-e524d1d1e6c4" />
 
 
 
@@ -92,6 +96,7 @@ sudo traceroute  www.google.com
 ## output
 
 
+<img width="585" height="546" alt="image" src="https://github.com/user-attachments/assets/7e3d4afc-b6c2-41c8-8a9e-df16f6220ece" />
 
 
 
