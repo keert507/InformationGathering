@@ -61,7 +61,8 @@ Host: example.com
 
 
 ## nmap:
-###output
+### output
+<img width="513" height="527" alt="image" src="https://github.com/user-attachments/assets/20aa51ea-194e-4901-86f2-aa94e4a816b5" />
 
 
 ## Whatweb
